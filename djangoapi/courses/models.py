@@ -1,3 +1,5 @@
+# This is models.py page
+
 from django.db import models
 
 # Create your models here.
